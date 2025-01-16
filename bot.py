@@ -1,8 +1,8 @@
 import requests
 
 # টেলিগ্রাম বট টোকেন এবং চ্যানেল আইডি
-TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_CHANNEL_ID"
+TELEGRAM_TOKEN = "7589750623:AAHOOd3Wt39xH2vwnhYGh2Ujqz8-7uKG2d8"
+CHAT_ID = "@trade_gtp"
 
 # মেসেজ পাঠানোর ফাংশন
 def send_message_to_telegram(message):
